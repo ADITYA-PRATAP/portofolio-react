@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portofolio-react/static/css/main.f984f42c.css",
+    "main.js": "/portofolio-react/static/js/main.d07a5fbf.js",
+    "static/media/t2.png": "/portofolio-react/static/media/t2.4cbd04fc1bc9102cd0bc.png",
+    "static/media/frontd.png": "/portofolio-react/static/media/frontd.fbde27d61960be33c91c.png",
+    "static/media/prob.png": "/portofolio-react/static/media/prob.52aa6029f010f58715ac.png",
+    "static/media/hack.png": "/portofolio-react/static/media/hack.2357cfe2ca08d4b9fbfc.png",
+    "static/media/lk.JPG": "/portofolio-react/static/media/lk.6c316b108e72620c0676.JPG",
+    "static/media/css.png": "/portofolio-react/static/media/css.1dc853ea64dcdf306385.png",
+    "static/media/dsa completed course.png": "/portofolio-react/static/media/dsa completed course.521e7523193e16c30b62.png",
+    "static/media/GA.png": "/portofolio-react/static/media/GA.dc4e2525614091e1de11.png",
+    "static/media/CV12005775.pdf": "/portofolio-react/static/media/CV12005775.f4e49d0f0999ccbde4fe.pdf",
+    "static/media/dsaab.png": "/portofolio-react/static/media/dsaab.81a7d71650aeaa51361c.png",
+    "static/media/CAM.png": "/portofolio-react/static/media/CAM.a8c3cfeb17a8a052d3d0.png",
+    "static/media/publicis sapient.png": "/portofolio-react/static/media/publicis sapient.972f35162f9485f35461.png",
+    "static/media/internship.png": "/portofolio-react/static/media/internship.d30bb5da23f4dc27ca22.png",
+    "static/media/music player.jpg": "/portofolio-react/static/media/music player.c8f394d92d2e44cad84a.jpg",
+    "static/media/techno.png": "/portofolio-react/static/media/techno.a0aa91e436e5a001c138.png",
+    "static/media/gfg dsa .png": "/portofolio-react/static/media/gfg dsa .25a46e93ebc7aef76da6.png",
+    "static/media/giftproject.jpeg": "/portofolio-react/static/media/giftproject.4c530e34471c9702f4cc.jpeg",
+    "static/media/cpu sch.jpeg": "/portofolio-react/static/media/cpu sch.cbb8ecd1ff9e0c99a1c4.jpeg",
+    "index.html": "/portofolio-react/index.html",
+    "main.f984f42c.css.map": "/portofolio-react/static/css/main.f984f42c.css.map",
+    "main.d07a5fbf.js.map": "/portofolio-react/static/js/main.d07a5fbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f984f42c.css",
+    "static/js/main.d07a5fbf.js"
+  ]
+}
