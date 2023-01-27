@@ -1,0 +1,42 @@
+
+
+/* #navsec{
+    width:100%;
+    height:50vh;
+    background-color: aliceblue;
+
+} */
+nav{
+    /* margin-top: 0px; */
+    background:rgba(0,0,0,0.3);
+    width:max-content;
+    
+    display: block;
+    padding:0.9rem 1.7rem;
+    z-index: 2;
+    left:50%;
+    transform: translateX(-50%);
+    display: flex;
+    bottom: 1.0rem;
+    position:fixed;
+     gap: 0.8rem;
+     border-radius: 3rem;
+     backdrop-filter: blur(15px);
+}
+nav a{
+    background: transparent;
+    padding:0.9rem;
+    border-radius: 50%;
+    display: flex;
+    color:  var(--color-light);
+    font-size:1.1rem;
+
+}
+nav a:hover{
+    background: rgba(0,0,0,0.3);
+    /* padding-top: 0.2px; */
+}
+nav a.active{
+    background-color: var(--color-bg);
+    color:var(--color-white)
+}

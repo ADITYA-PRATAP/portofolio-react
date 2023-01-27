@@ -1,0 +1,41 @@
+.portfolio_{
+  display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 10%;
+}
+.portfolio_sec{
+  display: grid;
+  grid-template-columns: repeat(5,2fr);
+  gap:2.3rem;
+}
+.d{
+  height: 120px;
+  width: 50px;
+}
+.k{
+  height: 120px;
+}
+.abot__car{
+  background: var(--color-bg-variant);
+  border: 1px solid transparent;
+  border-radius: 1.5rem;
+  padding:1rem;
+  margin-top: 8px;
+  text-align: center;
+  transition: var(--transition);
+  /* row-gap: 1rem; */
+}
+.abot__car:hover{
+  background: transparent;
+  border-color: var(--color-primary-varient);
+}
+
+
+@media screen  and (max-width:600px){
+  .portfolio_{
+    display: grid;
+      grid-template-columns: 50% 50%;
+      gap: 10%;
+  }
+  
+}
